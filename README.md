@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- ⚡ I’m currently studying Computer Science and Engineering
-- ✨ I’m interested in machine learning
-
-
+:desktop_computer: Computer Science and Engineering :desktop_computer:
+- Artificial intelligence :zap:
+- Computer graphics  	:high_brightness:
+- Computer vision :eyeglasses:
