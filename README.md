@@ -1,6 +1,4 @@
-### Hello there 👋
-
-:desktop_computer: Computer Science and Engineering :desktop_computer:
+### Computer Science and Engineering
 - Artificial intelligence :zap:
-- Computer graphics  	:high_brightness:
+- Computer graphics :desktop_computer:
 - Computer vision :eyeglasses:
