@@ -1,4 +1,4 @@
 ### Computer Science Engineer
 - Artificial intelligence :zap:
-- Computer graphics :desktop_computer:
-- Computer vision :eyeglasses:
+- Data Science :earth_africa:
+- Computer vision and graphics:desktop_computer:
