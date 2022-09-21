@@ -3,7 +3,7 @@
   <hr>
 </div>
 
-<img align="right" style="width: 80%;" src="https://user-images.githubusercontent.com/53486164/186541369-1aeec7ba-7fa6-49fc-8748-e5633ae47b0d.gif">
-<p align="center" style="margin-left:20%">Artificial Intelligence</p>
-<p align="center" style="margin-left:20%">Data Science</p>
-<p align="center" style="margin-left:20%">Computer Graphics</p>
+<img align="right" style="width: 50vw;" src="https://user-images.githubusercontent.com/53486164/186541369-1aeec7ba-7fa6-49fc-8748-e5633ae47b0d.gif">
+<h3>Artificial Intelligence</h3>
+<h3>Data Science</h3>
+<h3>Computer Graphics</h3>
