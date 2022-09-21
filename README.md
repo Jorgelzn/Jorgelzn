@@ -3,7 +3,7 @@
   <hr>
 </div>
 
-<img align="right" style="width: 40vw;" src="https://user-images.githubusercontent.com/53486164/186541369-1aeec7ba-7fa6-49fc-8748-e5633ae47b0d.gif">
-<h3>Artificial Intelligence</h3>
-<h3>Data Science</h3>
-<h3>Computer Graphics</h3>
+<img align="right" style="width: 35vw;" src="https://user-images.githubusercontent.com/53486164/186541369-1aeec7ba-7fa6-49fc-8748-e5633ae47b0d.gif">
+<h3>Artificial Intelligence :zap:</h3>
+<h3>Data Science :earth_africa:</h3>
+<h3>Computer Graphics :desktop_computer:</h3>
