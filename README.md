@@ -4,6 +4,6 @@
 </div>
 
 <img align="right" style="width: 80%" src="https://user-images.githubusercontent.com/53486164/186541369-1aeec7ba-7fa6-49fc-8748-e5633ae47b0d.gif">
-<p>Artificial Intelligence</p>
-<p>Data Science</p>
-<p>Computer Graphics</p>
+<p align="center">Artificial Intelligence</p>
+<p align="center">Data Science</p>
+<p align="center">Computer Graphics</p>
