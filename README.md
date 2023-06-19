@@ -5,6 +5,6 @@
 
 <img align="right" style="width: 30vw;" src="https://user-images.githubusercontent.com/53486164/186541369-1aeec7ba-7fa6-49fc-8748-e5633ae47b0d.gif">
 <p>&nbsp</p>
-<h3>Bio-inpired computing</h3>
+<h3>Bio-inspired computing</h3>
 <h3>Reinforcement Learning</h3>
 <h3>Natural Language Processing</h3>
