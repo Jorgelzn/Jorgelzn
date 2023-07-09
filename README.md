@@ -5,9 +5,9 @@
 <div align="center">
   <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/three.png?raw=true" width="100"/>
   &emsp;&emsp;&emsp;
-  <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/pytorch.png?raw=true" width="70"/>
+  <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/pytorch.png?raw=true" width="100"/>
   &emsp;&emsp;&emsp;
-  <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/pytorch.png?raw=true" width="70"/>
+  <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/python.png?raw=true" width="100"/>
 <div>
 <br><br>
 <div align="center">
