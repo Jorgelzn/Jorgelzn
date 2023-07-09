@@ -3,10 +3,10 @@
   <hr>
 </div>
 <div align="center">
-  <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/python.png?raw=true" width="60vw"/>&emsp;
-  <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/pytorch.png?raw=true" width="60vw"/>&emsp;
-  <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/c++.png?raw=true" width="60vw"/>&emsp;
-  <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/js.png?raw=true" width="90vw"/>&emsp;
+  <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/python.png?raw=true" width="55vw"/>&emsp;
+  <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/pytorch.png?raw=true" width="55vw"/>&emsp;
+  <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/c++.png?raw=true" width="55vw"/>&emsp;
+  <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/js.png?raw=true" width="60vw"/>&emsp;
   <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/three.png?raw=true" width="60vw"/>&emsp;
 </div>
 <br>
