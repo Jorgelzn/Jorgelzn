@@ -10,7 +10,10 @@
   <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/three.png?raw=true" width="60vw"/>&emsp;
 </div>
 <br>
-<img align="right" src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/myplace.gif" align="center" width="100%"/>
+<div align="center">
+  <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/myplace.gif" width="80%"/>
+</div>
+
 
 
 
