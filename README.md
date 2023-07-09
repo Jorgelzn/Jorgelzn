@@ -3,11 +3,11 @@
   <hr>
 </div>
 <img align="right" src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/myplace.gif" align="center" width="80%"/>
-  <img align="top" src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/python.png?raw=true" width="10%"/>
-  &emsp;&emsp;&emsp;
-  <img align="top" src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/pytorch.png?raw=true" width="10%"/>
-  &emsp;&emsp;&emsp;
-  <img align="top" src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/three.png?raw=true" width="10%"/>
+  <img align="center" src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/python.png?raw=true" width="10%"/>
+  &emsp;&emsp;
+  <img align="center" src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/pytorch.png?raw=true" width="10%"/>
+  &emsp;&emsp;
+  <img align="center" src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/three.png?raw=true" width="10%"/>
 
 
 
