@@ -4,15 +4,21 @@
 </div>
 <img align="right" src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/myplace.gif" align="center" width="60%"/>
 <div>
-  <img align="center" src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/python.png?raw=true" width="60vw"/>
-  &emsp;
-  <img align="center" src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/pytorch.png?raw=true" width="60vw"/>
-  &emsp;
-  <img align="center" src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/c++.png?raw=true" width="60vw"/>
-  &emsp;
-  <img align="center" src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/js.png?raw=true" width="100vw"/>
-  &ensp;
-  <img align="center" src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/three.png?raw=true" width="60vw"/>
+  <div align="left">
+    &emsp;
+    <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/python.png?raw=true" width="60vw"/>
+    &emsp;
+    <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/pytorch.png?raw=true" width="60vw"/>
+  </div>
+  <div align="left">
+    <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/js.png?raw=true" width="90vw"/>
+    &emsp;
+    <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/three.png?raw=true" width="60vw"/>
+  </div>
+  <div align="left">
+    &emsp;
+    <img src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/c++.png?raw=true" width="60vw"/>
+  </div>
 </div>
 
 
