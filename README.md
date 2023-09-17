@@ -3,10 +3,8 @@
   <hr>
 </div>
 <img align="right" style="width: 30vw;" src="https://github.com/Jorgelzn/Jorgelzn/blob/main/media/myplace.gif?raw=true">
-<p>&nbsp</p>
-<h3>Computer Vision</h3>
-<h3>Reinforcement Learning</h3>
-<h3>Natural Language Processing</h3>
+
+
 
 
 
